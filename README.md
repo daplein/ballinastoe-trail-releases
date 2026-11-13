@@ -8,7 +8,7 @@ Phone in your pocket: it knows which trail you're on, tells you the way at junct
 
 ## Download
 
-**[📲 Install Ballinastoe Trail](https://daplein.github.io/apps/ballinastoe-trail/)** (Android 8 or newer): open that page on your phone and tap *Download for Android*. Or scan this with the phone's camera:
+**[📲 Install Ballinastoe Trail](https://daplein.github.io/apps/ballinastoe-trail/)** (Android 7 or newer; voice commands need Android 13): open that page on your phone and tap *Download for Android*. Or scan this with the phone's camera:
 
 <img src="https://daplein.github.io/apps/ballinastoe-trail/qr.svg" alt="QR code for the install page" width="180">
 
